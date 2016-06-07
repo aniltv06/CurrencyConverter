@@ -4,7 +4,7 @@ iOS app written in swift for currency conversion
 # Currency Converter Usage #
 ![Animated walkthrough of the app](Assets/walkThrough.gif)
 
-checkout this screencast on [how to Use]http://recordit.co/xMYhd5CFge
+checkout this screencast on [how to Use](http://recordit.co/xMYhd5CFge)
 
 ## Usage of API
 
